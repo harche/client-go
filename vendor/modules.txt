@@ -53,7 +53,7 @@ github.com/mailru/easyjson/jwriter
 github.com/modern-go/concurrent
 # github.com/modern-go/reflect2 v1.0.2
 github.com/modern-go/reflect2
-# github.com/openshift/api v0.0.0-20211209135129-c58d9f695577
+# github.com/openshift/api v0.0.0-20211209135129-c58d9f695577 => github.com/harche/api v0.0.0-20220207060207-1ef193eee708
 ## explicit
 github.com/openshift/api/apiserver/v1
 github.com/openshift/api/apps/v1
@@ -376,3 +376,4 @@ sigs.k8s.io/json/internal/golang/encoding/json
 sigs.k8s.io/structured-merge-diff/v4/value
 # sigs.k8s.io/yaml v1.2.0
 sigs.k8s.io/yaml
+# github.com/openshift/api => github.com/harche/api v0.0.0-20220207060207-1ef193eee708
